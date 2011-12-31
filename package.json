@@ -1,0 +1,19 @@
+{
+	"name"			: "Node-Command-Line-Interface",
+	
+	"description"	: "A command line interface to bootstrap app + mongoDB, ",
+	
+	"version"		: "0.1.0",
+	
+	"homepage"		: "https://github.com/slalompoint/node-command-line-interface",
+	
+	"author"		: "Slalom Point",  
+	
+	"engines" 		: { "node" : "0.4 || 0.5" },
+	
+	"dependencies" 	: { 
+		"express" 			: ">=2.0.0beta3",
+		"expresso" 			: ">=0.7.3",
+		"commander"			: "0.4.2"
+    }
+}
